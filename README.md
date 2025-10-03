@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🎧 Now Playing on Spotify  
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/7FOrQDYmTBskAtuRxGNEwZ?si=fa2ec133d2644675)
+[![Spotify]()]()
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANKANVALL&show_icons=true&theme=tokyonight)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
