@@ -13,6 +13,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
+  <div class="tenor-gif-embed" data-postid="5400724748085991472" data-share-method="host" data-aspect-ratio="0.986957" data-width="100%"><a href="https://tenor.com/view/ado-ado-gif-ado-singer-ado-good-morning-good-morning-gif-5400724748085991472">Ado Ado Gif GIF</a>from <a href="https://tenor.com/search/ado-gifs">Ado GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 ---
