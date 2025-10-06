@@ -47,8 +47,8 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<h3 align="left">🌐 Conéctate conmigo</h3>
-<p align="left">
+<h3 align="center">🌐 Conéctate conmigo</h3>
+<p align="center">
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
   </a>
@@ -56,7 +56,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<p align="left">
+<p align="center">
 ⭐ <strong>Gracias por visitar mi perfil.</strong><br>
 Explora mis repositorios y proyectos, y no dudes en dejar una estrella si algo te inspira.
 </p>
