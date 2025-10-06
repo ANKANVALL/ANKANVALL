@@ -48,13 +48,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<h3 align="center">🤝 Colaboración</h3>
-<p align="center">
-Siempre abierto a colaborar y contribuir en proyectos interesantes o desafiantes.<br>
-<em>“SOLO SE QUE NO SE NADA” — Sócrates</em>
-</p>
 
----
 
 <h3 align="center">🌐 Conéctate conmigo</h3>
 <p align="center">(Agrega aquí tus redes o correo cuando quieras.)</p>
