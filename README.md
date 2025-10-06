@@ -8,24 +8,13 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 </p>
 
 ---
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h2> Spotify </h2>
-       <p align="center">
-          <a href="https://github.com/kittinan/spotify-github-profile">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
-          </a>
-        </p>
-    </td>
-    <td align="center" width="50%">
-      <h2> Lo mas escuchado</h2>
-       <a href="https://github.com/kittinan/spotify-github-profile">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-        </a>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+    <a href="https://github.com/kittinan/spotify-github-profile">
+     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
+    </a>
+</p>
+   
 
 
 ---
