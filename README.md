@@ -2,19 +2,29 @@
 
 <p align="center">
 💻 <strong>Desarrollador web enfocado en el multidesarrollo</strong><br>
+    💿<strong> ADO LOVER </strong>strong><br>
 Apasionado por crear soluciones dinámicas, eficientes y visualmente atractivas.<br>
 Mi enfoque combina creatividad y lógica para construir experiencias web de alto rendimiento.
 </p>
 
 ---
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h2> Spotify </h2>
+       <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+        </a>
+    </td>
+    <td align="center" width="50%">
+      <h2> Lo mas escuchado</h2>
+       <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
+        </a>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">ADO LOVER 💿</h3>
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</p>
 
 ---
 
