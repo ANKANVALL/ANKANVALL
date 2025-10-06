@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### 🎧 Now Playing on Spotify  
 
-[![Spotify]()]()
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANKANVALL&show_icons=true&theme=tokyonight)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
