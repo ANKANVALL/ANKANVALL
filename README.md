@@ -21,11 +21,11 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 <table align="left" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td  width="50%">
       <h2>🚀 Tecnologías que uso</h2>
       <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,python,java" alt="Tech Stack" />
     </td>
-    <td align="center" width="50%">
+    <td width="50%">
       <h2>🌱 Actualmente aprendiendo</h2>
       <img src="https://skillicons.dev/icons?i=cpp,cs,linux" alt="Learning Stack" />
     </td>
@@ -36,11 +36,11 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 <table align="left" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td  width="50%">
       <h2>📊 Estadísticas de GitHub</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=AnkanVall&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="90%" />
     </td>
-    <td align="center" width="50%">
+    <td  width="50%">
       <h2>🧰 Lenguajes más usados</h2>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanVall&layout=compact&theme=tokyonight" alt="Top Languages" width="90%" />
     </td>
@@ -52,7 +52,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 
 <h3 align="left">🌐 Conéctate conmigo</h3>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" ></a></p>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" ></a></p>
 
 ---
 
