@@ -51,7 +51,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 
 <h3 align="center">🌐 Conéctate conmigo</h3>
-<p align="center">(Agrega aquí tus redes o correo cuando quieras.)</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=linkedin" href="https://skillicons.dev"></p>
 
 ---
 
