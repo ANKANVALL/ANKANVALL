@@ -13,10 +13,10 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
     <td align="center" width="50%">
       <h2> Spotify </h2>
        <p align="center">
-              <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&redirect=true">
-                <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
-              </a>
-            </p>
+                  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&redirect=true">
+                    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+                  </a>
+                </p>
     </td>
     <td align="center" width="50%">
       <h2> Lo mas escuchado</h2>
