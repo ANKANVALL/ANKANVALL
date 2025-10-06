@@ -1,8 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>ANKANVALL</strong></h1>
+<h1 align="left">👋 ¡Hola! Soy <strong>ANKANVALL</strong></h1>
 
-<p align="center">
+<p align="left">
 💻 <strong>Desarrollador web enfocado en el multidesarrollo</strong><br>
-    💿<strong> ADO LOVER </strong>strong><br>
+    💿<strong> ADO LOVER </strong><br>
 Apasionado por crear soluciones dinámicas, eficientes y visualmente atractivas.<br>
 Mi enfoque combina creatividad y lógica para construir experiencias web de alto rendimiento.
 </p>
@@ -19,7 +19,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<table align="center" width="100%">
+<table align="left" width="100%">
   <tr>
     <td align="center" width="50%">
       <h2>🚀 Tecnologías que uso</h2>
@@ -34,7 +34,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<table align="center" width="100%">
+<table align="left" width="100%">
   <tr>
     <td align="center" width="50%">
       <h2>📊 Estadísticas de GitHub</h2>
@@ -51,12 +51,12 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 
 
-<h3 align="center">🌐 Conéctate conmigo</h3>
+<h3 align="left">🌐 Conéctate conmigo</h3>
 <p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linkedin" ></a></p>
 
 ---
 
-<p align="center">
+<p align="left">
 ⭐ <strong>Gracias por visitar mi perfil.</strong><br>
 Explora mis repositorios y proyectos, y no dudes en dejar una estrella si algo te inspira.
 </p>
