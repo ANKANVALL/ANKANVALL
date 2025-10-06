@@ -1,27 +1,64 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy ANKANVALL**
 
-<!--
-**ANKANVALL/ANKANVALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrollador web enfocado en el multidesarrollo**
+Apasionado por crear soluciones dinámicas, eficientes y visualmente atractivas. Mi enfoque combina creatividad y lógica para construir experiencias web de alto rendimiento.
 
-Here are some ideas to get you started:
+---
+ADO LOVER 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🎧 Now Playing on Spotify  
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
+  </a>
+</p>
+---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+## 🚀 Tecnologías que uso
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANKANVALL&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,python,java" alt="Tech Stack" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+---
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+## 🌱 Actualmente aprendiendo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,linux" alt="Learning Stack" />
+</p>
+
+---
+
+## 🤝 Colaboración
+
+Siempre abierto a colaborar y contribuir en proyectos interesantes o desafiantes.
+
+> 💬 “**SOLO SE QUE NO SE NADA**” — *Sócrates*
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkanVall&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkanVall&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🧰 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanVall&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Conéctate conmigo
+
+(Agrega aquí tus redes o correo cuando quieras.)
+
+---
+
+⭐ **Gracias por visitar mi perfil.**
+¡Explora mis repositorios y proyectos, y no dudes en dejar una estrella si algo te inspira!
