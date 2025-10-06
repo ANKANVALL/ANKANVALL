@@ -23,32 +23,25 @@ ADO LOVER
 
 ## 🌱 Actualmente aprendiendo
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,cs,linux" alt="Learning Stack" />
 </p>
 
 ---
 
-## 🤝 Colaboración
 
-Siempre abierto a colaborar y contribuir en proyectos interesantes o desafiantes.
-
-> 💬 “**SOLO SE QUE NO SE NADA**” — *Sócrates*
-
----
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AnkanVall&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkanVall&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ## 🧰 Lenguajes más usados
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanVall&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
