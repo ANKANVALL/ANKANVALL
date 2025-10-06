@@ -6,7 +6,7 @@ Apasionado por crear soluciones dinámicas, eficientes y visualmente atractivas.
 ---
 ADO LOVER 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true">
   </a>
