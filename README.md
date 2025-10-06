@@ -17,42 +17,39 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<table align="left" width="100%">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <h2>🚀 Tecnologías que uso</h2>
+    <td align="center" width="33%">
+      <h3>🚀 Tecnologías que uso</h3>
       <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,python,java" alt="Tech Stack">
     </td>
-    <td width="50%" align="center">
-      <h2>🌱 Actualmente aprendiendo</h2>
+    <td align="center" width="33%">
+      <h3>🌱 Actualmente aprendiendo</h3>
       <img src="https://skillicons.dev/icons?i=cpp,cs,linux" alt="Learning Stack">
+    </td>
+    <td align="center" width="33%">
+      <h3>🌐 Conéctate conmigo</h3>
+      <a href="https://www.linkedin.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-<table align="left" width="100%">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <h2>📊 Estadísticas de GitHub</h2>
+    <td align="center" width="50%">
+      <h3>📊 Estadísticas de GitHub</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=AnkanVall&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="90%">
     </td>
-    <td width="50%" align="center">
-      <h2>🧰 Lenguajes más usados</h2>
+    <td align="center" width="50%">
+      <h3>🧰 Lenguajes más usados</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanVall&layout=compact&theme=tokyonight" alt="Top Languages" width="90%">
     </td>
   </tr>
 </table>
-
----
-
-<h3 align="center">🌐 Conéctate conmigo</h3>
-<p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
-  </a>
-</p>
 
 ---
 
