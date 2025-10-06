@@ -9,8 +9,8 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
+<p align="left">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true">
     </a>
 </p>
