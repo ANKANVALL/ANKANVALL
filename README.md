@@ -15,7 +15,7 @@ ADO LOVER
 
 ## 🚀 Tecnologías que uso
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,tailwind,python,java" alt="Tech Stack" />
 </p>
 
