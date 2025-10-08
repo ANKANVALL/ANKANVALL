@@ -26,7 +26,7 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
     </td>
     <td align="center" width="33%">
       <h3>🌱 Actualmente aprendiendo</h3>
-      <img src="https://skillicons.dev/icons?i=cpp,cs,linux" alt="Learning Stack">
+      <img src="https://skillicons.dev/icons?i=cpp,cs,linux,nodejs" alt="Learning Stack">
     </td>
     <td align="center" width="33%">
       <h3>🌐 Conéctate conmigo</h3>
