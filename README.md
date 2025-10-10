@@ -9,36 +9,23 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
 
 ---
 
-<table align="center" cellspacing="10">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true" target="_blank">
-        <img 
-          src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true" 
-          alt="Spotify Now Playing"
-          width="400"
-          style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.3);"
-        />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <img 
-        src="assets/miyabi.gif" 
-        alt="Miyabi Animation" 
-        width="200" 
-        style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <img 
-        src="assets/miyabi-first.gif" 
-        alt="Miyabi Animation" 
-        width="200" 
-        style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true" target="_blank">
+    <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=12120788821&cover_image=true&theme=spotify-embed&show_offline=false&background_color=4c53b8&interchange=true&mode=dark&bar_color=53b14f&bar_color_cover=true" 
+      alt="Spotify Now Playing"
+      style="border-radius:12px; box-shadow:0 4px 15px rgba(0,0,0,0.3); margin-bottom:15px;"
+    />
+  </a>
+
+  <!-- Fila de GIFs -->
+  <div style="display:flex; justify-content:center; gap:15px;">
+    <img src="assets/miyabi-first.gif" alt="GIF 1" width="200" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+   <img src="assets/miyabi.gif" alt="GIF 1" width="200" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+    <img src="assets/miyabi-first.gif" alt="GIF 1" width="200" style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);" />
+  </div>
+</div>
+
 
 
 ---
