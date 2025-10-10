@@ -23,14 +23,6 @@ Mi enfoque combina creatividad y lógica para construir experiencias web de alto
     </td>
     <td align="center" valign="middle">
       <img 
-        src="assets/miyabi-first.gif" 
-        alt="Miyabi Animation" 
-        width="200" 
-        style="border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.25);"
-      />
-    </td>
-    <td align="center" valign="middle">
-      <img 
         src="assets/miyabi.gif" 
         alt="Miyabi Animation" 
         width="200" 
